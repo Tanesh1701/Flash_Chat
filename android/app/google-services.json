@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440875839026",
+    "firebase_url": "https://flash-chat-7bcc6.firebaseio.com",
+    "project_id": "flash-chat-7bcc6",
+    "storage_bucket": "flash-chat-7bcc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440875839026:android:363e8b626b30b32e2e962b",
+        "android_client_info": {
+          "package_name": "co.Tanesh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440875839026-61pdjnjfb1th14rm6aoto8bibs5e52v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc9Y-VhrmSUEEBAHFK_eN1cWfFVOys4DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440875839026-61pdjnjfb1th14rm6aoto8bibs5e52v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
